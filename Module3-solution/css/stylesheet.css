@@ -1,0 +1,44 @@
+body {
+	font-size: 16px;
+	background-color: #e6e4ff;
+	color: black;
+	font-family: 'Bree Serif', serif;
+}
+.header-nav {
+	background-color: black;
+	border-radius: 0;
+	border: 0;
+
+}
+.navbar-brand a {
+	color: #fff;
+	font-weight: bold;
+	text-decoration: none;
+}
+.navbar-header {
+	padding-right: 20px;
+	padding-left: 20px;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+   border: 1px solid #fff;
+}
+
+.navbar-header button.navbar-toggle  {
+  clear: both
+  margin: -30px;
+}
+header #collapsed-portion {
+	background-color: brown;
+	width: 100%;
+	padding: 0;
+
+}
+header .container {
+	padding: 0;
+}
+a {
+	color: #fff;
+}
+#section-menu {
+	background-color: #fff;
+}
